@@ -1,0 +1,126 @@
+{
+  "batch_groups": [
+    {
+      "name": "جروب الواتساب الرسمي الأول للأخبار والتنبيهات",
+      "link": "https://chat.whatsapp.com/CWUyleHBbzP7xeyyS1tRaQ",
+      "type": "واتساب",
+      "order": 1
+    },
+    {
+      "name": "جروب الواتساب الرسمي الثاني للأخبار والتنبيهات",
+      "link": "https://chat.whatsapp.com/HXvjl9a9dBi1r9i0Dk7Axo",
+      "type": "واتساب",
+      "order": 2
+    },
+    {
+      "name": "جروب الفتوح للجميع - جروب الشات",
+      "link": "https://chat.whatsapp.com/KWEYfxpF873JfTGO0qQ2sF",
+      "type": "واتساب",
+      "order": 3
+    }
+  ],
+  "subjects": {
+    "Data Structures": {
+      "doctors": {
+        "Dr. Mahmoud Elnamoly": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/Kznb9xjti0W3hygmlTW1k2", "order": 1 }
+        ],
+        "Dr. Laila Abdelfattah": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/ECobIYisFr73JDBk1wgpRt", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Amr Abdelaal": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/EhXWtCw8lJ259yT9wAth55", "order": 1 }
+        ],
+        "Eng. Shady Ashraf": "notexist"
+      }
+    },
+    "Databases": {
+      "doctors": {
+        "Dr. Mohamed Maher": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/LGvoNPCS0MwDwjdbDP4DxK", "order": 1 }
+        ],
+        "Dr. Ahmed Samy": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/CASju4P8yHNH2FrJgFR2sB", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Assem Mostafa": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/GvI8li42buJAZ1KVNNwOgt", "order": 1 }
+        ],
+        "Eng. Hassan Hassan": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/F1s93PtcRbJLR3tKxhDvPh", "order": 1 }
+        ],
+        "Eng. Shawky El-Sayed": [
+          { "type": "تليجرام", "link": "https://t.me/+DTUHGfN2HPJmZGNk", "order": 1 }
+        ]
+      }
+    },
+    "Networks": {
+      "doctors": {
+        "Dr. Ehab Roshdy": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/EzmQEQUC5DN8ZWmfJDnhJk", "order": 1 }
+        ],
+        "Dr. Walaa Elhady": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/EzmQEQUC5DN8ZWmfJDnhJk", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Ahmed Awad": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/G4wgWjDainq9e5pX8bAXIG", "order": 1 }
+        ],
+        "Eng. Hania Wael": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/Fw6QLmkmRvpE9n1Asc5BXa", "order": 1 }
+        ]
+      }
+    },
+    "Logic Design": {
+      "doctors": {
+        "Dr. Asmaa Mohamed": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/CKgHSbpSUUHDrOuRevyHuD", "order": 1 }
+        ],
+        "Dr. Ahmed Dawood": [
+          { "type": "فيسبوك", "link": "https://www.facebook.com/share/g/1CPAXujb5B/", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Eman Reda": [
+          { "type": "تليجرام", "link": "https://t.me/+xNNUgSziv802YWRk", "order": 1 }
+        ],
+        "Eng. Rahma Abdelkarim": [
+          { "type": "تليجرام", "link": "https://t.me/+fcOw2MIwhlVhYjQ0", "order": 1 }
+        ]
+      }
+    },
+    "Operating Systems": {
+      "doctors": {
+        "Dr. Marwa Abdelilah": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/FZF2RsBwLIh2OyWLrk6sce", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Rawan Tarek": [
+          { "type": "فيسبوك", "link": "https://www.facebook.com/groups/1135324395591883/", "order": 1 }
+        ],
+        "Eng. Shorouk Osama": "notexist",
+        "Eng. Shady Ashraf": "notexist"
+      }
+    },
+    "Operations Research": {
+      "doctors": {
+        "Dr. Shereen Zaky": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/GjuJTVYBfCK5NIrYCqRHlh", "order": 1 }
+        ],
+        "Dr. Mahmoud Ismail": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/IGhCUvI2oFPLggvuMzfy9A", "order": 1 }
+        ]
+      },
+      "tas": {
+        "Eng. Mohamed Gamal": [
+          { "type": "واتساب", "link": "https://chat.whatsapp.com/BfqSN5VK6lBD7xOPXAHB2T", "order": 1 }
+        ]
+      }
+    }
+  }
+}
